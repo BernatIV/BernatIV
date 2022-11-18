@@ -13,8 +13,10 @@
 I'm a Full Stack sofware developer focused on Java, Spring, Angular, React and AWS. 
 
 ## 🌱 Currently developing
-<a href="https://github.com/BernatIV/genealogical-tree">Genealogical-tree</a>! It's a web app build with React, Java, Spring and AWS. 
-A graph can be built in this website to visualize genealogical data. (But still under development!).
+<a href="https://github.com/BernatIV/genealogical-tree">Genealogical-tree</a>! It's a web app where a graph can be built to visualize genealogical data.
+
+I am using React, Java, Spring and AWS. All data across the app is encrypted with TLS certificates, https and Spring Security. 
+
 
 
 ## 📫 How to reach me
